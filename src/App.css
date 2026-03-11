@@ -25,3 +25,12 @@ input::placeholder{
 label{
   font-size: large;
 }
+.err {
+  border: 2px solid red;
+}
+
+p {
+  color: red;
+  font-size: 13px;
+  margin-top: 4px;
+}
