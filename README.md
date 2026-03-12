@@ -1,16 +1,58 @@
-# React + Vite
+# Form Validation (React Hook Form)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates **form validation in React** using **React Hook Form**.
+The application validates user inputs and shows error messages when the data does not meet the required validation rules.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 https://formvalidation-liart.vercel.app
 
-## React Compiler
+## 📌 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Form validation for user inputs
+* Error handling with clear validation messages
+* Responsive and simple UI
+* Efficient form handling with React Hook Form
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* React Hook Form
+
+## 📂 Installation & Setup
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Kaushiki-Kesarwani/form-Validation.git
+```
+
+2. Navigate to the project folder
+
+```bash
+cd form-Validation
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Run the development server
+
+```bash
+npm run dev
+```
+
+## 📁 Repository
+
+GitHub Repo:
+https://github.com/Kaushiki-Kesarwani/form-Validation
+
+## 👩‍💻 Author
+
+**Kaushiki Kesarwani**
